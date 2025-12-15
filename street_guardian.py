@@ -42,12 +42,12 @@ CHANNELS = 1
 BLOCKSIZE = 8000
 
 # Telegram
-TELEGRAM_BOT_TOKEN = "8059364109:AAF6FMKpTJBFdJ6Wh8b86SVMnQCm2k5KYh8"
-TELEGRAM_CHAT_ID = "1268317249"
+TELEGRAM_BOT_TOKEN = "add_bot_token"
+TELEGRAM_CHAT_ID = "add_chat_id"
 TELEGRAM_API = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}"
 
 # imgbb
-IMGBB_API_KEY = "2d23aea76d0c6d16d9b4b57347379c2f"
+IMGBB_API_KEY = "Imgbb-api_key"
 IMGBB_UPLOAD_URL = "https://api.imgbb.com/1/upload"
 
 # Firebase
@@ -368,3 +368,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
