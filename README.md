@@ -52,6 +52,7 @@ StreetGuardian AI enables **hands-free emergency alerts** using voice commands s
 A working demo of the physical prototype and alert system is available here:
 
 🔗 **Demo Video: https://drive.google.com/file/d/1K81KrZylY7zTR3ZCY4YhclqvqL10HAIZ/view?usp=sharing
+🔗 **Demo Video: https://www.linkedin.com/posts/nuthanaganti-chandrakanth-2149a02ba_streetguardianai-aiforsocialgood-raspberrypi-activity-7406334304026451968-6FCo?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEytNzABNWfgLDCmz7v-N3ArLnC6vUP2P0k
 
 ---
 
